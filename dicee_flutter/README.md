@@ -2,7 +2,9 @@
 
 This app is a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![Finished App](https://github.com/haardikdharma10/Introduction-to-Flutter/blob/master/dicee_flutter/dicee_working.gif)
+<p align = "center">
+<img src="https://github.com/haardikdharma10/Introduction-to-Flutter/blob/master/dicee_flutter/dicee_working.gif" width="350" height="700"/>
+</p>
 
 ## What I learned from this project:
 
