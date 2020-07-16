@@ -5,5 +5,5 @@ Imagine every time you wanted to give someone your contact details or your busin
 # Screenshots
 
 <p align="left">
-  <img src="https://github.com/haardikdharma10/Introduction-to-Flutter/business_card/screenshot.png">
+  <img src="https://github.com/haardikdharma10/Introduction-to-Flutter/blob/master/business_card/screenshot.png">
 </p>
