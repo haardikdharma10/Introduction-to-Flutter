@@ -16,4 +16,4 @@ This app is a Las Vegas dice app. You can make the die roll at the press of a bu
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
-### >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
