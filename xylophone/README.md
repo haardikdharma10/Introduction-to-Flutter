@@ -1,9 +1,9 @@
 # Xylophone 🎹
 
-Made a simple music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+A simple music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
 <p align = "center">
-  <img src = "https://github.com/haardikdharma10/Introduction-to-Flutter/blob/working-branch/xylophone/xylophone.png">
+  <img src = "https://github.com/haardikdharma10/Introduction-to-Flutter/blob/master/xylophone/xylophone.png">
 </p>
   
 ## What I learned from this project:
